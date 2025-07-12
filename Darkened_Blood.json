@@ -183,6 +183,7 @@
         "PRIMARY_800": "#0C0B0C"
     },
     "background": {
+	"blur": 0
         "url": "https://github.com/bripendo/Darkened-Collection-not-mine/blob/main/Vz3vaK.png",
 	"alpha": 0.3
     },
