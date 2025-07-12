@@ -3,7 +3,7 @@
     "description": "A dark theme with red accents.",
     "authors": [
         {
-            "name": "Purple_Ξye™"
+            "name": "Purple_Ξye™, customized by me"
         }
     ],
     "semanticColors": {
@@ -183,7 +183,7 @@
         "PRIMARY_800": "#0C0B0C"
     },
     "background": {
-        "url": "https://github.com/bripendo/Alikord/blob/619a5ecbc801aad4587ab382455d619dff9dc801/IMG_20250206_070722.jpg",
+        "url": "https://github.com/bripendo/Alikord/blob/main/IMG_20250206_070722.jpg",
 	"alpha": 1
     },
     "spec": 2,
